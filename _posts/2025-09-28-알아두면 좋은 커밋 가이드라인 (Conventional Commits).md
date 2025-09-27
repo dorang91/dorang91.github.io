@@ -40,6 +40,6 @@ chore(deps): jekyll-sitemap 버전 업데이트
 
 ---
 
-팀이 없더라도 **feat / fix / docs / chore** 네 가지부터 일관되게 사용하면 충분합니다.
+팀이 없더라도 **feat / fix / docs / chore** 네 가지부터 일관되게 사용하면 충분합니다.  
 scope는 선택 사항이라 `feat: 회원가입 기능 추가`처럼 생략해도 됩니다.  
 subject는 항상 **현재 시제, 짧고 명확하게** 쓰는 것이 원칙입니다.
