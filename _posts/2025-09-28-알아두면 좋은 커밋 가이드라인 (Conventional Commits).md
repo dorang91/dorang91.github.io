@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "알아두면 좋은 커밋 가이드라인 (Conventional Commits)"
-categories: dev
+categories: [dev]
 ---
 
 # 알아두면 좋은 커밋 가이드라인 (Conventional Commits)
