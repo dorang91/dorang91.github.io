@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "알아두면 좋은 커밋 가이드라인 (Conventional Commits)"
-date: 2025-09-28 02:05:18 +0900
-categories: jekyll update
+categories: dev
 ---
 
 # 알아두면 좋은 커밋 가이드라인 (Conventional Commits)
