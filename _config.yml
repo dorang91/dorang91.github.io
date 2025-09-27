@@ -21,7 +21,6 @@
 title: Dorang Dev Log
 email: admin@dorang.net
 description: >- # this means to ignore newlines until "baseurl:"
-  10년차 생계형 풀스택 개발자
   오픈소스와 다양한 프로젝트에서 배운 점을 기록하는 기술 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dorang91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
